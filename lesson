@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<p> <br> <img src="img_girl.jpg"> 
+<img src="img_girl.jpg" width="500" height="600"> </p>
+
+<tagname> Content goes here...</tagname><h1 style="font-size:60px;">Heading 1</h1>
+<img src="Eagles" alt="showing strong" width="360" height="280">
+
+
+
+<p>This is a <br> paragraph<br> with a line break.</p>
+</body>
+</html>
